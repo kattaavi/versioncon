@@ -18,9 +18,6 @@ for n,val in emp.items():
         name = n
 print('Highest salary is drawn by',name)
 
-i =int(input("Enter a number:"))
-l=[]
-for n,val in emp.items():
-    if val > i:
-        l.append(val)
-print(l)
+print("hello world")
+
+
